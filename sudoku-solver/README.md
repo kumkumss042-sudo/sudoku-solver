@@ -1,3 +1,6 @@
+Sudoku Solver
+🚀 **Live Demo:** [Open Sudoku Vision](https://sudoku-solver-1-f9id.onrender.com)
+
 # Sudoku Solver from Image (Spring Boot)
 
 Upload a photo or screenshot of an unsolved Sudoku (printed OR handwritten) -> get the same picture back with the solution written in.
